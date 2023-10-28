@@ -2,7 +2,7 @@
 ## Descripcion de Proyecto
 Proyecto realizado en JavaScript. https://onofredavila.github.io/ValidacionFormularioEmail/
 
-Este proyecto es un aprendizaje del curso en udemy dictado por el profesor Juan de la Torre (https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql/).
+Este proyecto es un aprendizaje del curso en udemy dictado por el profesor Juan de la Torre (https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/).
 
 Proyecto consiste en la validacion de los campos de un formulario para envio de correcto, al ser validados todos los campos se activa el boton de envio.
 
